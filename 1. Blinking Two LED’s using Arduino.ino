@@ -1,7 +1,7 @@
 
 //1. Blinking Two LED’s using Arduino
 //(C) Bassar Patel bassar@aol.in
-
+//https://github.com/PatelBassar/ArduinoDay-2018
 int LED1 = 12;
 int LED2 = 13;
 
